@@ -1,0 +1,18 @@
+{
+  "wish-dragon.usdz": {
+    "bytes": 2626144,
+    "sha256": "c42362fdd1fe845fe5fb067e9275e8ad08e013b9989ee03a6bf8e244675bdb24"
+  },
+  "wish-summon.mp3": {
+    "bytes": 19472,
+    "sha256": "fb5b3f8af7886bfb00e02991ef8780cc31c2a19474db842d7bbab806eca74531"
+  },
+  "wish-charge.mp3": {
+    "bytes": 25725,
+    "sha256": "ce85fb3d11a1b23c2f6e891b8ec263544e468c3ff9f9117c8d21724a84a842e7"
+  },
+  "wish-balls.usdz": {
+    "bytes": 278897,
+    "sha256": "1bb6583d7ad0bb6e072c26b94444d40329c0647fe0f6aa614e85ecf21b3ba315"
+  }
+}

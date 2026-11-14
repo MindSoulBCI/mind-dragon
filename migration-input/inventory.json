@@ -1,0 +1,172 @@
+[
+  {
+    "path": "README.zh-CN.md",
+    "bytes": 2617,
+    "sha256": "4ce6438ed8774768c30f341eacac374056e5a4e78880ea74680265c8395c2917"
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-balls.glb",
+    "bytes": 170732,
+    "sha256": "e09a2bcd9e5c5f9e0e11637d8cc8b0bf3c341c53db7211e38174d44b5897723b",
+    "meshes": 14,
+    "animations": []
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-charge.mp3",
+    "bytes": 25725,
+    "sha256": "ce85fb3d11a1b23c2f6e891b8ec263544e468c3ff9f9117c8d21724a84a842e7"
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-conversion.json",
+    "bytes": 467,
+    "sha256": "01de4509dd246e3b0ffc50b43940836f8bed373e16332d339ac4c7ce0d5649cb"
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-dragon-mindsoul.glb",
+    "bytes": 1360588,
+    "sha256": "bb7adb6bc02bde2154e2ac3d6d11475ba90c793dcb4e605bc1a1921595fb0bc7",
+    "meshes": 7,
+    "animations": []
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-dragon-motion.glb",
+    "bytes": 857148,
+    "sha256": "4fa5100e5d1633773484fc3b33d0e429d59fad5a237f88f7439ee0577899ded0",
+    "meshes": 7,
+    "animations": []
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-dragon.glb",
+    "bytes": 2044708,
+    "sha256": "cebe499ed99a4b6fe962f8ef826ed1641fe26f7366ad83b1153dd4fbc5003e80",
+    "meshes": 18,
+    "animations": []
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-gold-aura.glb",
+    "bytes": 14936,
+    "sha256": "ca39aa6894083782eba57e10c01ac82dfb60a9df347ac315c22d61b2a1c711f4",
+    "meshes": 1,
+    "animations": []
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-motion-notes.json",
+    "bytes": 313,
+    "sha256": "f99fc38641d5cfbc6d55a867c78d5beaf9d5c1ee04e7328e2d246154e5a13ebb"
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-summon.mp3",
+    "bytes": 19472,
+    "sha256": "fb5b3f8af7886bfb00e02991ef8780cc31c2a19474db842d7bbab806eca74531"
+  },
+  {
+    "path": "assets/mindsoul/WishDragon/wish-validation.json",
+    "bytes": 522,
+    "sha256": "b17ebe830449df78c8f98f882eaeb4daff7e6cb7108a803eb44e29ba4f1e0a3c"
+  },
+  {
+    "path": "assets/mindsoul/covers/dragon.png",
+    "bytes": 369003,
+    "sha256": "d2b5f6bdd36adce5b159889557bdeea434e42ce42fd9fe26e40f614342dffb0a"
+  },
+  {
+    "path": "catalog.json",
+    "bytes": 577,
+    "sha256": "bbaae7175ddcd46d3e91fc3c11fbdee523dcdb8cad89b4507e0671bc615ea99f"
+  },
+  {
+    "path": "masters/Blender/wish-dragon-motion.blend",
+    "bytes": 1086033,
+    "sha256": "9f1bb4491cfbf99759a4441495c3f7d09838a5c0de8fa4b1ed0397c3d15ab562"
+  },
+  {
+    "path": "masters/WishDragon/WISH_ASSET_CREDITS.md",
+    "bytes": 1024,
+    "sha256": "134caa65d463e465c58d9114791c527e77c9629144f0b659b47b2972da877c19"
+  },
+  {
+    "path": "masters/WishDragon/wish-balls.usdz",
+    "bytes": 278897,
+    "sha256": "1bb6583d7ad0bb6e072c26b94444d40329c0647fe0f6aa614e85ecf21b3ba315"
+  },
+  {
+    "path": "masters/WishDragon/wish-charge.mp3",
+    "bytes": 25725,
+    "sha256": "ce85fb3d11a1b23c2f6e891b8ec263544e468c3ff9f9117c8d21724a84a842e7"
+  },
+  {
+    "path": "masters/WishDragon/wish-conversion.json",
+    "bytes": 467,
+    "sha256": "01de4509dd246e3b0ffc50b43940836f8bed373e16332d339ac4c7ce0d5649cb"
+  },
+  {
+    "path": "masters/WishDragon/wish-dragon-mindsoul.usdz",
+    "bytes": 1835839,
+    "sha256": "fb4f92ab76f3789f3471c50027c8af4db0b193cbf99146dc269d2f9b8c72769a"
+  },
+  {
+    "path": "masters/WishDragon/wish-dragon-motion.usdz",
+    "bytes": 1332410,
+    "sha256": "0a3e83fcba24ddae834d389de6d6e56ffd81c538a94b618dba313cdaa2b71440"
+  },
+  {
+    "path": "masters/WishDragon/wish-dragon.usdz",
+    "bytes": 2626144,
+    "sha256": "c42362fdd1fe845fe5fb067e9275e8ad08e013b9989ee03a6bf8e244675bdb24"
+  },
+  {
+    "path": "masters/WishDragon/wish-gold-aura.usdz",
+    "bytes": 23130,
+    "sha256": "8f897fba03536df0b29f0802f3ddd3f41502db9aa24e192db0cb074a1822f75e"
+  },
+  {
+    "path": "masters/WishDragon/wish-motion-notes.json",
+    "bytes": 313,
+    "sha256": "f99fc38641d5cfbc6d55a867c78d5beaf9d5c1ee04e7328e2d246154e5a13ebb"
+  },
+  {
+    "path": "masters/WishDragon/wish-summon.mp3",
+    "bytes": 19472,
+    "sha256": "fb5b3f8af7886bfb00e02991ef8780cc31c2a19474db842d7bbab806eca74531"
+  },
+  {
+    "path": "masters/WishDragon/wish-validation.json",
+    "bytes": 522,
+    "sha256": "b17ebe830449df78c8f98f882eaeb4daff7e6cb7108a803eb44e29ba4f1e0a3c"
+  },
+  {
+    "path": "source/android/shared/BrainGames.kt",
+    "bytes": 12611,
+    "sha256": "314d66ef1c3c1902e1cf9f8144e73e1cce0be46a072d06e65d35ba9da2ad3cf0"
+  },
+  {
+    "path": "source/android/shared/GameSessionSummary.kt",
+    "bytes": 4308,
+    "sha256": "6143b77670d0efd28c6c46c5fe366b0f73ecfdb0c07fd0054b3fc0a8f2971405"
+  },
+  {
+    "path": "source/android/shared/GltfAnimationCompat.kt",
+    "bytes": 520,
+    "sha256": "0ebe814f3d172ab21fc64b017388d3aee9895ea348a6dd530df7f11d98879b20"
+  },
+  {
+    "path": "source/android/shared/MindSoulActionButton.kt",
+    "bytes": 1117,
+    "sha256": "4177f3c9c59789255aa3f27cf7ccee2618b7feacdacea9d0933dac7bbaf49f4f"
+  },
+  {
+    "path": "source/visionOS/WishDragonGame.swift",
+    "bytes": 17334,
+    "sha256": "802fc7b5977e772795a457928639dc6355e12cdf90a6c478ddf70c04ee7d48b5"
+  },
+  {
+    "path": "source/web/player.shared.js",
+    "bytes": 24824,
+    "sha256": "52b505fdb1e2329bedd4688b6b72347d4a7feccb4d061884f5a5abaab8900b11"
+  },
+  {
+    "path": "tools/asset_bounds.py",
+    "bytes": 1634,
+    "sha256": "2c0afa8349fa00b9f1f2a01d4f47d18813e4e9474fed2b538baefc58480409dd"
+  }
+]

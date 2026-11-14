@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dragon",
+    "title": "许愿神龙",
+    "cover": "covers/dragon.png",
+    "assets": [
+      "WishDragon/wish-balls.glb",
+      "WishDragon/wish-charge.mp3",
+      "WishDragon/wish-conversion.json",
+      "WishDragon/wish-dragon-mindsoul.glb",
+      "WishDragon/wish-dragon-motion.glb",
+      "WishDragon/wish-dragon.glb",
+      "WishDragon/wish-gold-aura.glb",
+      "WishDragon/wish-motion-notes.json",
+      "WishDragon/wish-summon.mp3",
+      "WishDragon/wish-validation.json"
+    ],
+    "reference": "reference/visionOS/Widget/WishDragonGame.swift"
+  }
+]

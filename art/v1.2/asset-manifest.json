@@ -1,0 +1,61 @@
+[
+  {
+    "ball": 1,
+    "shellDiameter": 0.32,
+    "dotCount": 1,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 2,
+    "shellDiameter": 0.32,
+    "dotCount": 2,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 3,
+    "shellDiameter": 0.32,
+    "dotCount": 3,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 4,
+    "shellDiameter": 0.32,
+    "dotCount": 4,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 5,
+    "shellDiameter": 0.32,
+    "dotCount": 5,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 6,
+    "shellDiameter": 0.32,
+    "dotCount": 6,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "ball": 7,
+    "shellDiameter": 0.32,
+    "dotCount": 7,
+    "idle": "LogosIdle",
+    "hover": "LogosGlow"
+  },
+  {
+    "dragon": "dragon-azure.glb",
+    "motionNodes": [
+      "WhiskerLeft",
+      "WhiskerRight",
+      "LowerJaw"
+    ],
+    "color": "azure blue",
+    "runtimeMotion": "local pivot quaternion offsets, 8 second gentle cycle"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "game": "许愿龙",
+  "applicationId": "cn.mindsoul.pico.wishdragon",
+  "source": "/Users/apple/Documents/ChatGPT/MindSoul/Deliverables/SpaceGames-PICO/MindSoul-WishDragon-PICO-Migration",
+  "status": "source-separated",
+  "compiled": false,
+  "runtimeVerified": false,
+  "referencePolicy": "复用主题、窗口、返回与模拟数据规则；不复制粒子专用业务。",
+  "copiedFilesVerified": 20
+}

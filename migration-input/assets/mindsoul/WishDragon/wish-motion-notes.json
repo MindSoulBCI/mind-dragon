@@ -1,0 +1,13 @@
+{
+  "source": "shenron_dragon_ball.glb",
+  "normalized_height": 1.8,
+  "changes": [
+    "removed baked source dragon balls",
+    "isolated both 793-vertex whiskers",
+    "isolated lower jaw and teeth",
+    "runtime slow jaw/whisker movement",
+    "gold emission aura"
+  ],
+  "whiskers": 2,
+  "jaw_vertices": 491
+}

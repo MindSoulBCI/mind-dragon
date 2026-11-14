@@ -1,0 +1,122 @@
+[
+  {
+    "asset": "games-pico/wish-dragon/migration-input/assets/mindsoul/WishDragon/wish-balls.glb",
+    "animations": [],
+    "skins": 0,
+    "materials": [
+      {
+        "name": "_02___Default",
+        "alphaMode": "BLEND",
+        "doubleSided": false
+      },
+      {
+        "name": "_03___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      }
+    ]
+  },
+  {
+    "asset": "games-pico/wish-dragon/migration-input/assets/mindsoul/WishDragon/wish-gold-aura.glb",
+    "animations": [],
+    "skins": 0,
+    "materials": [
+      {
+        "name": "WishGoldenEmission",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      }
+    ]
+  },
+  {
+    "asset": "games-pico/wish-dragon/migration-input/assets/mindsoul/WishDragon/wish-dragon-mindsoul.glb",
+    "animations": [],
+    "skins": 0,
+    "materials": [
+      {
+        "name": "_08___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "_09___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Green",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Yellow",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      }
+    ]
+  },
+  {
+    "asset": "games-pico/wish-dragon/migration-input/assets/mindsoul/WishDragon/wish-dragon-motion.glb",
+    "animations": [],
+    "skins": 0,
+    "materials": [
+      {
+        "name": "_08___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "_09___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Green",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Yellow",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      }
+    ]
+  },
+  {
+    "asset": "games-pico/wish-dragon/migration-input/assets/mindsoul/WishDragon/wish-dragon.glb",
+    "animations": [],
+    "skins": 0,
+    "materials": [
+      {
+        "name": "_02___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "_03___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "_08___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "_09___Default",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Green",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      },
+      {
+        "name": "Yellow",
+        "alphaMode": "OPAQUE",
+        "doubleSided": true
+      }
+    ]
+  }
+]

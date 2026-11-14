@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">意念神龙</string>
+    <string name="mindsoul_account_api" translatable="false">https://mindsoul.cn/forum</string>
+    <string name="mindsoul_app_id" translatable="false">wish-dragon</string>
+</resources>

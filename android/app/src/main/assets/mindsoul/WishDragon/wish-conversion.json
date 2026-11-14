@@ -1,0 +1,16 @@
+[
+  {
+    "source": "/Users/apple/Downloads/the_dragon_balls.glb",
+    "sha256": "c100af5cd61533f349c3c65833b11f74205d419b24d1394db43777c53e0f302a",
+    "output": "wish-balls.usdz",
+    "maxExtentMetres": 0.95,
+    "meshes": 14
+  },
+  {
+    "source": "/Users/apple/Downloads/shenron_dragon_ball.glb",
+    "sha256": "fbca4daafa55503a628e452ef8730af96060a3a08235305b0c1c09ae816b391f",
+    "output": "wish-dragon.usdz",
+    "maxExtentMetres": 1.8,
+    "meshes": 18
+  }
+]
