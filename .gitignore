@@ -12,3 +12,5 @@ captures/
 *.hprof
 *.jks
 *.keystore
+output.json
+google-services.json

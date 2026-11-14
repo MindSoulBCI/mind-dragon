@@ -3,7 +3,7 @@
 包名：cn.mindsoul.pico.wishdragon；versionCode 9。交付日期：2026-11-14。
 
 ## 工程内容
-- android/：完整Kotlin/SpatialUI源码、测试、Gradle Wrapper、运行所需GLB/音频/图片。
+- 仓库根目录：完整 Kotlin/SpatialUI 源码、测试、Gradle Wrapper、运行所需 GLB/音频/图片（Vibe Lab 云构建要求 Gradle 在根目录）。
 - art/v1.2/：最新七颗圆点龙珠、蓝色神龙的可编辑Blender模型，导出和预览脚本。目录名称保留资产迭代起点，内容为v1.2.6最终版。
 - migration-input/：原始迁移素材及来源参考。
 - docs/：统一交互规范、历史变更与验收记录。
@@ -11,11 +11,10 @@
 - FILES-SHA256.json：工程包内逐文件SHA256。
 
 ## 开发与构建
-使用Android Studio打开android目录。已验证工具链：JDK 21、Android SDK 35、AGP 8.13.2、Kotlin 2.1.20、PICO Spatial SDK/BOM 6.1.9，arm64-v8a。
+使用 Android Studio 打开仓库根目录。已验证工具链：JDK 21、Android SDK 35、AGP 8.13.2、Kotlin 2.1.20、PICO Spatial SDK/BOM 6.1.9，arm64-v8a。
 在本机设置ANDROID_HOME，或自行创建android/local.properties并设置sdk.dir；不包含原机器的本地配置、签名私钥、SDK或Gradle缓存。首次Gradle同步需联网下载声明的依赖。
 
 ```sh
-cd android
 chmod +x gradlew
 ./gradlew assembleDebug testDebugUnitTest
 ```
